@@ -1,0 +1,35 @@
+.qvz{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    position: fixed;
+}
+
+.odam{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+.inson{
+    width: 150px;
+    height: 100px;
+    background-color: orange;
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.shaxs{
+    width: 150px;
+    height: 100px;
+    background-color: greenyellow;
+    position: fixed;
+    margin-top: 150px;
+    margin-left: 150px;
+
+}
