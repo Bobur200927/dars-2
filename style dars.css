@@ -42,3 +42,48 @@ tr:nth-child(even){
     display: inline-block;
     width: 300px;
 }
+
+.static {
+    position: static;
+    background-color: orange;
+    padding: 5px;
+
+}
+
+.fix {
+  position: fixed;
+  width: 100%;
+  height: 40px;
+  background-color: aqua; 
+  right: 00px; 
+  top: 0;
+}
+
+/* button {
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    bottom: 100px;
+
+} */
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
+.relative {
+    width: 500px;
+    height: 300px;
+    border: 2px solid #000;
+    position: relative;
+}
+
+
+.abs {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: blue;
+}
