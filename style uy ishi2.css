@@ -1,0 +1,16 @@
+.va{
+    border: 5px solid green;
+    width: 350px;
+    height: 250px;
+    position: relative;
+    
+}
+
+.ham{
+    border: 5px solid green;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    margin-left: 100px;
+    
+}
